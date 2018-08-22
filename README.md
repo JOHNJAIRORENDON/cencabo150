@@ -1,2 +1,5 @@
 # cencabo150
-prueba en clase
+## Descripcion del proyecto
+Proyecto de prueba en clase
+## Instrucciones
+
